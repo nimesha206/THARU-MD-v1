@@ -1,10 +1,10 @@
 <a href="https://github.com/nimesha206/THARU-MD-v1"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=0013FF&center=true&width=1000&height=200&lines=THARU-MD-V1.0" alt="Typing SVG" /></a>
   </p>
   
-<img src="https://files.catbox.moe/rnjlel.jpg" height="90" width="100%">
+<img src="" height="90" width="100%">
 </h3>
 
-<img src="https://files.catbox.moe/rnjlel.jpg" width="300" height="190">
+<img src="" width="300" height="190">
 </div>
 
 <a><img src='https://files.catbox.moe/rnjlel.jpg'/></a><a>
